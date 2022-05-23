@@ -2,11 +2,6 @@
 
 A Festival post app in flutter.
 
-## Screen shots
-
-## Gifs
-
-
 ## Getting Started
 
 This project show festival post application.
